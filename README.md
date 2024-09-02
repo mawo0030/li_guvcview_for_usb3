@@ -27,6 +27,7 @@ sudo apt-get install libsdl2-dev
 sudo apt-get install libsfml-dev
 sudo apt-get install qtbase5-dev
 sudo apt-get install libgsl0-dev
+sudo apt-get install libtools
 ```
 
 ### Build Configuration:
